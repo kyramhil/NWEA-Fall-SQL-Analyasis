@@ -34,3 +34,17 @@ ORDER BY avg_rit DESC;
 
 
 ## Results
+1. The avg_rit for each block:
+-  B1 is 207
+- B2 is 211
+- B3 is 209.
+  
+2. The avg_Percentile for each block:
+   - B1 is 45.8%
+   - B2 is 52.7 %
+   - B3 is 49.5 %
+  
+3. Block 1 had the most students below proficiency compared to the other blocks
+4. Block 2 had the highest high achievers
+5. Block 2 also has the most students performing on-level
+
