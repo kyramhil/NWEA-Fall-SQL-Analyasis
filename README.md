@@ -18,9 +18,9 @@ The Dataset is a simulated version of NWEA scores with the following columns:
 - Which class has the largest number of students above the 80th percentile?
 
 
-## Eample Queries
-''' SQL
--- At risk students (below 40th Perncetnile)
+## Example Queries
+''' sql
+-- At-risk students (below 40th percentile)
 SELECT DISTINCT student_block, COUNT(DISTINCT student_id) AS below_proficient
 FROM nwea_scores
 WHERE percentile BETWEEN 1 AND 40
