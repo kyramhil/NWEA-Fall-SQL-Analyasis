@@ -1,4 +1,4 @@
-# NWEA-Fall-SQL-Analyasis
+# NWEA-Fall-SQL-Analysis
 
 ## Overview
 This project analyses Fall NWEA Math scores using SQL in MYSQL Workbench. The goal was to explore how scores differ by class and to identify students who are on level, below level, high achievers and can do students.
